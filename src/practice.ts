@@ -1,3 +1,3 @@
-let name:string="hello world"
-console.log(name);
+let nigger:string="hello world"
+console.log(Username);
 
